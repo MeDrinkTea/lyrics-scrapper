@@ -7,7 +7,7 @@ A Spotify playlist → lyrics from Genius → a plain `.txt` with **lyric lines 
 Ниже две инструкции под спойлерами: **🇷🇺 русская** и **🇬🇧 английская**. Интерфейс программы тоже переключается между языками.
 Two guides are below under spoilers: **🇷🇺 Russian** and **🇬🇧 English**. The app switches languages too.
 
-<details open>
+<details>
 <summary><b>🇷🇺 Русская инструкция</b></summary>
 
 ## Коротко
